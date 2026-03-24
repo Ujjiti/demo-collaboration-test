@@ -9,3 +9,6 @@ Assigned tasks:
 - Logo design — small, elegant and unique
 - Brand colors — white and green
 - Tagline — Coffee for life
+
+## Added by shreya
+New idea: create new package in design
